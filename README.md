@@ -47,8 +47,6 @@ Once the clients are connected, the game proceeds as follows:
 5. Once the game is over, you will be informed of the winner or if the game ended in a draw.
 6. If you wish to play again, repeat from Step 3.
 
-Feel free to explore the code and enjoy playing the game!
+Feel free to explore the code and enjoy playing the game, and thanks for reading!
 
 ---
-
-Note: This is a simplified example of how a README file could be written following industry standards. The content and structure of a README may vary depending on the project and the specific industry practices.
