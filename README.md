@@ -2,6 +2,8 @@
 
 Welcome to the README file for the CSE207 Secret Assignment by Dimitrije Zdrale.
 
+This project is a Tic Tac Toe game implemented using network programming techniques. It allows multiple clients to connect to a server and play the game over a network. The server manages the game state and facilitates communication between the clients. Each client takes turns making moves by selecting a position on the game board. The game continues until there is a winner or a draw. The project demonstrates how to establish network connections, handle client-server interactions, and maintain game state in a multiplayer setting.
+
 ## Compilation
 
 To compile the program, follow these steps:
